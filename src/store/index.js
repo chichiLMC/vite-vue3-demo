@@ -2,7 +2,7 @@ import { createStore } from 'vuex'
 
 export default createStore({
     state : { 
-        user : 'admin'
+        user : 'chichiLMC'
     },
     mutations : {},
     actions : {},
