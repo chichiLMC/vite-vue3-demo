@@ -18,6 +18,6 @@ npm run dev
 ```
 ### doc
 
-[>> Vue3](https://www.vue3js.cn/docs/zh/)
+[Vue3](https://www.vue3js.cn/docs/zh/).
 <br/>
-[>> Vite](https://www.vitejs.net/guide/)
+[Vite](https://www.vitejs.net/guide/).
