@@ -16,3 +16,7 @@ npm run dev
  http://localhost:3000/
 
 ```
+### doc
+
+[Vue3](https://www.vue3js.cn/docs/zh/)>>
+[Vite](https://www.vitejs.net/guide/)>>
